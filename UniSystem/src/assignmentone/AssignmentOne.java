@@ -1,12 +1,4 @@
-/**
- * AssignmentOne.java
- * 
- * Hassan Shahzad aheer
- * hassanshahzadaheer@gmail.com
- * 
- * This is the 1st Lab task to make mini University Management System
- * 12 - June - 2016
- **/
+
 package assignmentone;
 
 import java.util.Scanner;
